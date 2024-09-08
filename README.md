@@ -1,6 +1,7 @@
 # Dall-E 2 AI Art Generator
 
 This project will generate images from text using AI.
+Credis By Metoushela Walker Desinger
 
 ![OG Image](/public/ogimage.png)
 
